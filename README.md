@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Faizfavaz4646/myleetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Faizfavaz4646/myleetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizfavaz4646/myleetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Faizfavaz4646/myleetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
