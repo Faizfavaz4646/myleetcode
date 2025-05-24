@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Faizfavaz4646/myleetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Faizfavaz4646/myleetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
+| [2058-concatenation-of-array](https://github.com/Faizfavaz4646/myleetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Faizfavaz4646/myleetcode/tree/master/2491-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Faizfavaz4646/myleetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
