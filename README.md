@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Faizfavaz4646/myleetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
 | [2058-concatenation-of-array](https://github.com/Faizfavaz4646/myleetcode/tree/master/2058-concatenation-of-array) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Faizfavaz4646/myleetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Faizfavaz4646/myleetcode/tree/master/0069-sqrtx) |
 | [2491-smallest-even-multiple](https://github.com/Faizfavaz4646/myleetcode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String Matching
 |  |
 | ------- |
