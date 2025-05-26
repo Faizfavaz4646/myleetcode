@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Faizfavaz4646/myleetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Faizfavaz4646/myleetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
+| [0941-sort-array-by-parity](https://github.com/Faizfavaz4646/myleetcode/tree/master/0941-sort-array-by-parity) |
 | [2058-concatenation-of-array](https://github.com/Faizfavaz4646/myleetcode/tree/master/2058-concatenation-of-array) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Two Pointers
@@ -15,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizfavaz4646/myleetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Faizfavaz4646/myleetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/Faizfavaz4646/myleetcode/tree/master/0941-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Faizfavaz4646/myleetcode/tree/master/0242-valid-anagram) |
+| [0941-sort-array-by-parity](https://github.com/Faizfavaz4646/myleetcode/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
