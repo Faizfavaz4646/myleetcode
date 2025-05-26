@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Faizfavaz4646/myleetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Faizfavaz4646/myleetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Faizfavaz4646/myleetcode/tree/master/0069-sqrtx) |
+| [0371-sum-of-two-integers](https://github.com/Faizfavaz4646/myleetcode/tree/master/0371-sum-of-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Faizfavaz4646/myleetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## String Matching
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Faizfavaz4646/myleetcode/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Faizfavaz4646/myleetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
