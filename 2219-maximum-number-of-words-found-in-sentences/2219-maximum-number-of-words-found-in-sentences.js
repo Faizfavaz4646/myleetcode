@@ -11,6 +11,6 @@ var mostWordsFound = function(sentences) {
         }
       
     }
-      return maxword
+      return maxword;
     
 };
