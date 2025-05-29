@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/Faizfavaz4646/myleetcode/tree/master/0941-sort-array-by-parity) |
 | [2058-concatenation-of-array](https://github.com/Faizfavaz4646/myleetcode/tree/master/2058-concatenation-of-array) |
+| [2159-two-out-of-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2159-two-out-of-three) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Faizfavaz4646/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Faizfavaz4646/myleetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Faizfavaz4646/myleetcode/tree/master/0242-valid-anagram) |
+| [2159-two-out-of-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2159-two-out-of-three) |
 ## String
 |  |
 | ------- |
@@ -79,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Faizfavaz4646/myleetcode/tree/master/0371-sum-of-two-integers) |
+| [2159-two-out-of-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2159-two-out-of-three) |
 <!---LeetCode Topics End-->
