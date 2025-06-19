@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Faizfavaz4646/myleetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Faizfavaz4646/myleetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Faizfavaz4646/myleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Faizfavaz4646/myleetcode/tree/master/0941-sort-array-by-parity) |
 | [2058-concatenation-of-array](https://github.com/Faizfavaz4646/myleetcode/tree/master/2058-concatenation-of-array) |
 | [2159-two-out-of-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2159-two-out-of-three) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Faizfavaz4646/myleetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Faizfavaz4646/myleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Faizfavaz4646/myleetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0941-sort-array-by-parity](https://github.com/Faizfavaz4646/myleetcode/tree/master/0941-sort-array-by-parity) |
 ## Sorting
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Faizfavaz4646/myleetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Faizfavaz4646/myleetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Faizfavaz4646/myleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Faizfavaz4646/myleetcode/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Faizfavaz4646/myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Faizfavaz4646/myleetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Faizfavaz4646/myleetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Faizfavaz4646/myleetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2159-two-out-of-three](https://github.com/Faizfavaz4646/myleetcode/tree/master/2159-two-out-of-three) |
 ## String
 |  |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Faizfavaz4646/myleetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Faizfavaz4646/myleetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Faizfavaz4646/myleetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Number Theory
 |  |
 | ------- |
